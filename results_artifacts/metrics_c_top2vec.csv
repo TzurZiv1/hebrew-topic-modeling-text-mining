@@ -1,0 +1,2 @@
+stage,platform,model,dataset,num_topics,coherence_cv,topic_diversity,notes
+4,kaggle_or_colab,C-Top2Vec,Wiki_clean_text_v2,120,0.4566575980721996,0.6958333333333333,

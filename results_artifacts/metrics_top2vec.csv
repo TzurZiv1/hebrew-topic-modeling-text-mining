@@ -1,0 +1,5 @@
+stage,platform,model,dataset,num_topics,coherence_cv,topic_diversity,notes
+3,kaggle,Top2Vec,Wiki:clean_text,11,0.44068653612863745,0.6742424242424242,
+3,kaggle,Top2Vec,Wiki:lemma_text,22,0.4390830962485173,0.7575757575757576,
+3,kaggle,Top2Vec,UGC:clean_text,2,0.4005917750683472,0.8333333333333334,
+3,kaggle,Top2Vec,UGC:lemma_text,2,0.25223807089513645,0.8333333333333334,

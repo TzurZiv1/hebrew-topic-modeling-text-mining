@@ -1,0 +1,3 @@
+stage,platform,model,dataset,num_topics,coherence_cv,topic_diversity,notes
+4,colab_or_kaggle,CTM,Wiki,20,0.7487771794499092,0.9208333333333333,
+4,colab_or_kaggle,CTM,UGC,12,0.6097617051473269,0.8194444444444444,
